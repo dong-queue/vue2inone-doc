@@ -1,0 +1,38 @@
+{
+  "intro": [
+    "<p>From v-iterator version 1.0.6, AG grid is supported. To use AG Grid, you should install first.",
+    "Please see <a href='https://www.ag-grid.com/vue-grid/getting-started/' target='_blank'>offical page</a></p>"
+  ],
+  "default": {
+    "heading": "Basic Grid configuration",
+    "intro": "<p>In v-iterator, default AG Grid theme is 'ag-theme-balham', You can set 'agGridTheme' property, when you need to use different theme.</p>"
+  },
+  "fetchData": {
+    "heading": "Fetch Remote Data",
+    "intro": "<p></p>"
+  },
+  "enableSelection": {
+    "heading": "Enable Selection",
+    "intro": "<p></p>"
+  },
+  "columnDefinition": {
+    "heading": "Column Definition",
+    "intro": "<p></p>"
+  },
+  "columnIds": {
+    "heading": "Column IDs",
+    "intro": "<p></p>"
+  },
+  "render": {
+    "heading": "Cell Rendering",
+    "intro": "<p>By using 'function' attribute in 'columnDefs' property, you can add v-iterator components with row dependency.</p>"
+  },
+  "cellEditing": {
+    "heading": "Cell Editing",
+    "intro": "<p></p>"
+  },
+  "dynamicParameter": {
+    "heading": "Dynamic Parameters",
+    "intro": "<p></p>"
+  }
+}

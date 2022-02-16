@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-treeview</code> component is useful for displaying large amounts of nested data.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>A basic example</p>"
+  },
+  "disabled": {
+    "heading": "Item disabled",
+    "intro": "<p>Setting <strong>item-disabled</strong> prop allows to control which node’s property disables the node when set to <code>true</code>.</p>"
+  },
+  "loadChildren": {
+    "heading": "Load children",
+    "intro": "<p>You can dynamically load child data by supplying a <span style=`text-decoration: underline;`>Promise</span> callback to the <strong>load-children</strong> prop. This callback will be executed the first time a user tries to expand an item that has a children property that is an empty array.</p>"
+  }
+}

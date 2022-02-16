@@ -1,0 +1,14 @@
+export default {
+  items: [
+    { component: 'container', items: [
+      {
+        component: 'agGrid', class: 'sm8', style: 'width :100%; height: 300px;', isSeq: false,
+        gridOptions: 'gridOptions',
+        columnDefs: 'columnDefs', defaultColDef: 'defaultColDef',
+        defaultColGroupDef: 'defaultColGroupDef', columnTypes: 'columnTypes',
+        rowData: 'rowData',
+        evnts: [{event: 'grid-ready', method: 'onGridReady'}]
+      }
+    ]}
+  ]
+}

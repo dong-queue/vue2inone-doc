@@ -1,0 +1,18 @@
+{
+  "intro": [
+    "<p class='text-body-2'>All properties, events and functions of <code>el-select</code> provided by Element UI are avaliable in v-iterator. The component name is <code>select</code> (short name is <code>slt</code>).",
+    "",
+    "The default UI framwork for v-iterator is Vuetify. When using component of Element UI, you have to designate the framwork property as 'element' or 'el'.",
+    "When you want to change default framwork, add code <code>VUE_APP_FRAMEWORK=element</code> in <code>.env</code> file.",
+    "",
+    "■ Additional properties in v-iterator",
+    "<code>itemtext</code>: <span class='text-caption'>i18n code string, string text, Array, Function </span>",
+    "<code>html</code>: <span class='text-caption'>i18n code string, html, Array, Function</span>",
+    "",
+    "Feel free to modify the example below and apply it by clicking the apply button.</p>"
+  ],
+  "basic": {
+    "heading": "Basic Usage",
+    "intro": "<p></p>"
+  }
+}

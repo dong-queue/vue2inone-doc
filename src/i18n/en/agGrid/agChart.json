@@ -1,0 +1,29 @@
+{
+  "intro": [
+    "From v-iterator version 1.0.8, AG chart is supported. To use AG Chart, you should install first.",
+    "Please see <a href='https://www.ag-grid.com/vue-charts/getting-started/#getting-started/' target='_blank'>offical page</a>",
+    "",
+    "install ag chart vue: ",
+    "<strong>npm install --save ag-charts-community ag-charts-vue vue-property-decorator</strong>",
+    "",
+    "add below code in your 'main.js'",
+    "<strong>import { AgChartsVue } from 'ag-charts-vue'",
+    "Vue.component('ag-charts-vue', AgChartsVue)</strong>"
+  ],
+  "simpleBar": {
+    "heading": "Example: Simple Bar",
+    "intro": "<p></p>"
+  },
+  "layout": {
+    "heading": "Layout",
+    "intro": "<p></p>"
+  },
+  "legend": {
+    "heading": "Legend Position and Visibility",
+    "intro": "<p>Custom property <strong>'isShowChart'</strong> control chart visibility. When chart options or data are changed, use this property to refresh chart. </p>"
+  },
+  "click": {
+    "heading": "Node Click",
+    "intro": "<p></p>"
+  }
+}

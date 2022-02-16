@@ -1,0 +1,22 @@
+{
+  "intro": [
+    "<p class='text-body-2'>element UI에서 제공하는 <code>el-radio</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 radio 또는 rdo 로 입력 가능합니다.",
+    "",
+    "v-iterator의 default framework 는 vuetify입니다. element UI를 사용하실 경우 component 속성의 framwork를 'element' 또는 'el' 로 지정하셔야 합니다.",
+    "default framwork를 변경하실 경우 <code>.env</code> 파일에서 <code>VUE_APP_FRAMEWORK=element</code> 와 같이 지정하세요.",
+    "",
+    "■ 추가 속성",
+    "<code>itemtext</code>: <span class='text-caption'>i18n code string, string text, Array, Function </span>",
+    "<code>html</code>: <span class='text-caption'>i18n code string, html, Array, Function</span>",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "basic": {
+    "heading": "Basic Usage",
+    "intro": "<p></p>"
+  },
+  "group": {
+    "heading": "Radio Button Group",
+    "intro": "<p></p>"
+  }
+}

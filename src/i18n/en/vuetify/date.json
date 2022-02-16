@@ -1,0 +1,27 @@
+{
+  "intro": "<p><code>v-date-picker</code> is a fully featured date selection component that lets users select a date, or range of dates.</p>",
+  "allowed": {
+    "heading": "Allowed dates",
+    "intro": "<p>You can specify allowed dates using arrays, objects, and functions.</p>"
+  },
+  "colors": {
+    "heading": "Colors",
+    "intro": "<p>Date picker colors can be set using the <strong>color</strong> and <strong>header-color</strong> props. If <strong>header-color</strong> prop is not provided header will use the <strong>color</strong> prop value.</p>"
+  },
+  "multiple": {
+    "heading": "Multiple",
+    "intro": "<p>Date picker can now select multiple dates with the <strong>multiple</strong> prop. If using <strong>multiple</strong> then date picker expects its model to be an array.</p>"
+  },
+  "picker": {
+    "heading": "Picker date",
+    "intro": "<p>You can watch the <strong>picker-date</strong> which is the displayed month/year (depending on the picker type and active view) to perform some action when it changes. This uses the <code>.sync</code> modifier.</p>"
+  },
+  "range": {
+    "heading": "Range",
+    "intro": "<p>Date picker can select date range with the <strong>range</strong> prop. When using <strong>range</strong> prop date picker expects its model to be an array of length 2 or empty.</p>"
+  },
+  "buttons": {
+    "heading": "Date buttons",
+    "intro": "<p>Handle events such as <code>@click</code>, <code>@dblclick</code>, <code>@mouseenter</code>, and more when interacting with <em>date, month, and year</em> buttons.</p>"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-snackbar</code> component is used to display a quick message to a user. Snackbars support positioning, removal delay, and callbacks.</p>",
+  "multiline": {
+    "heading": "Multi line",
+    "intro": "<p>The <strong>multi-line</strong> property extends the height of the <code>v-snackbar</code> to give you a little more room for content.</p>"
+  },
+  "timeout": {
+    "heading": "Timeout",
+    "intro": "<p>The <strong>timeout</strong> property lets you customize the delay before the <code>v-snackbar</code> is hidden.</p>"
+  },
+  "variants": {
+    "heading": "Variants",
+    "intro": "<p>Apply different styles to the snackbar using props such as <strong>text</strong>, <strong>shaped</strong>, <strong>outlined</strong>, and more.</p>"
+  }
+}

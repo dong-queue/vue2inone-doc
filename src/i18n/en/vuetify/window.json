@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-window</code> component provides the baseline functionality for transitioning content from 1 pane to another. Other components such as <code>v-tabs</code>, <code>v-carousel</code> and <code>v-stepper</code> utilize this component at their core.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>Designed to easily cycle through content, <code>v-window</code> provides a simple interface to create truly custom implementations.</p>"
+  },
+  "account": {
+    "heading": "Account creation",
+    "intro": "<p>Create rich forms with smooth animations. <code>v-window</code> automatically tracks the current selection index to automatically change the transition direction. This can be manually controlled with the <strong>reverse</strong> prop.</p>"
+  },
+  "onboarding": {
+    "heading": "Onboarding",
+    "intro": "<p><code>v-window</code> makes it easy to create custom components such as a different styled stepper.</p>"
+  }
+}

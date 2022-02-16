@@ -1,0 +1,19 @@
+{
+  "intro": "<p>The <code>v-footer</code> component is used for displaying general information that a user might want to access from any page within your site.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>The <code>v-footer</code> component in its simplest form is a container.</p>"
+  },
+  "padless": {
+    "heading": "Padless Footer",
+    "intro": "<p>The <code>padless</code> prop removes all default padding from the footer component.</p>"
+  },
+  "indigo": {
+    "heading": "Indigo Footer",
+    "intro": "<p>The footer component with Indigo background color and social media icons and button.</p>"
+  },
+  "teal": {
+    "heading": "Teal Footer",
+    "intro": "<p>The footer component with a Teal color header and columns and rows of links.</p>"
+  }
+}

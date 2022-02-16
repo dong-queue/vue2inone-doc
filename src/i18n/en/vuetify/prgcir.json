@@ -1,0 +1,11 @@
+{
+  "intro": "<p>The <code>v-progress-circular</code> component is used to convey data circularly to users. It also can be put into an indeterminate state to portray loading.</p>",
+  "indeterminate": {
+    "heading": "Indeterminate",
+    "intro": "<p>Using the <code>indeterminate</code> prop, a <code>v-progress-circular</code> continues to animate indefinitely.</p>"
+  },
+  "rotate": {
+    "heading": "Rotate",
+    "intro": "<p>The <code>rotate</code> prop gives you the ability to customize the <code>v-progress-circular</code>'s origin.</p>"
+  }
+}

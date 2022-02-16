@@ -1,0 +1,19 @@
+{
+  "intro": "<p>The rating component is a specialized but crucial piece in building user widgets. Collecting user feedback via ratings is a simple analytic that can provide a lot of feedback to your product or application.</p>",
+  "incremented": {
+    "heading": "Incremented",
+    "intro": "<p>A rating can have 3 defined icons, <strong>full-icon</strong>, <strong>half-icon</strong> (with the <strong>half-increments</strong> prop) and <strong>empty-icon</strong>.</p>"
+  },
+  "itemslot": {
+    "heading": "Item slot",
+    "intro": "<p>Slots are provided to give you even more freedom in how you display the rating.</p>"
+  },
+  "advanced": {
+    "heading": "Advanced usage",
+    "intro": "<p>The <code>v-rating</code> component fits right in with existing components. Build truly complex examples with rich features and beautiful designs.</p>"
+  },
+  "card": {
+    "heading": "Card ratings",
+    "intro": "<p>The rating component pairs well with products allowing you to gather and display customer feedback.</p>"
+  }
+}

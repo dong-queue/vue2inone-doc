@@ -1,0 +1,59 @@
+{
+  "intro": "<p>The <code>v-slider</code> component is a better visualization of the number input. It is used for gathering numerical user data.</p>",
+  "colors": {
+    "heading": "Colors",
+    "intro": "<p>You can set the colors of the slider using the props <strong>color</strong>, <strong>track-color</strong> and <strong>thumb-color</strong>.</p>"
+  },
+  "disabled": {
+    "heading": "Disabled",
+    "intro": "<p>You cannot interact with <strong>disabled</strong> sliders.</p>"
+  },
+  "discrete": {
+    "heading": "Discrete",
+    "intro": "<p>Discrete sliders offer a thumb label that displays the exact current amount. Using the <strong>step</strong> prop you can disallow selecting values outside of steps.</p>"
+  },
+  "icons": {
+    "heading": "Icons",
+    "intro": "<p>You can add icons to the slider with the <strong>append-icon</strong> and <strong>prepend-icon</strong> props. With <code>@click:append</code> and <code>@click:prepend</code> you can trigger a callback function when click the icon.</p>"
+  },
+  "inverse": {
+    "heading": "Inverse label",
+    "intro": "<p><code>v-slider</code> with <strong>inverse-label</strong> property displays label at the end of it.</p>"
+  },
+  "minmax": {
+    "heading": "Min and max",
+    "intro": "<p>You can set <strong>min</strong> and <strong>max</strong> values of sliders.</p>"
+  },
+  "readonly": {
+    "heading": "Readonly",
+    "intro": "<p>You cannot interact with <strong>readonly</strong> sliders, but they look as ordinary ones.</p>"
+  },
+  "step": {
+    "heading": "Step",
+    "intro": "<p><code>v-slider</code> can have steps other than 1. This can be helpful for some applications where you need to adjust values with more or less accuracy.</p>"
+  },
+  "thumb": {
+    "heading": "Thumb",
+    "intro": "<p>You can display a thumb label while sliding or always with the <strong>thumb-label</strong> prop . It can have a custom color by setting <strong>thumb-color</strong> prop and a custom size with the <strong>thumb-size</strong> prop. With the <strong>always-dirty</strong> prop its color will never change, even when on the <strong>`min</strong> value.</p>"
+  },
+  "ticks": {
+    "heading": "Ticks",
+    "intro": "<p>Tick marks represent predetermined values to which the user can move the slider.</p>"
+  },
+  "validation": {
+    "heading": "Validation",
+    "intro": "<p>Vuetify includes simple validation through the <strong>rules</strong> prop. The prop accepts a mixed array of types <code>function</code>, <code>boolean</code> and <code>string</code>. When the input value changes, each element in the array will be validated. Functions pass the current v-model as an argument and must return either <code>true</code> / <code>false</code> or a <code>string</code> containing an error message.</p>"
+  },
+  "vertical": {
+    "heading": "Vertical sliders",
+    "intro": "<p>You can use the <strong>vertical</strong> prop to switch sliders to a vertical orientation. If you need to change the height of the slider, use css.</p>"
+  },
+  "appendprepend": {
+    "heading": "Append and prepend",
+    "intro": "<p>Use slots such as <code>append</code> and <code>prepend</code> to easily customize the <code>v-slider</code> to fit any situation.</p>"
+  },
+  "appendtxt": {
+    "heading": "Append text field",
+    "intro": "<p>Sliders can be combined with other components in its <code>append</code> slot, such as <code>v-text-field</code>, to add additional functionality to the component.</p>"
+  }
+}

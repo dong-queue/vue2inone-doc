@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The <code>v-chip-group</code> supercharges the <code>v-chip</code> component by providing groupable functionality. It is used for creating groups of selections using chips.</p>",
+  "column": {
+    "heading": "Column",
+    "intro": "<p>Chip groups with <strong>column</strong> prop can wrap their chips.</p>"
+  },
+  "filter": {
+    "heading": "Filter results",
+    "intro": "<p>Easily create chip groups that provide additional feedback with the <strong>filter</strong> prop. This creates an alternative visual style that communicates to the user that the chip is selected.</p>"
+  },
+  "mandatory": {
+    "heading": "Mandatory",
+    "intro": "<p>Chip groups with <strong>mandatory</strong> prop must always have a value selected.</p>"
+  },
+  "multiple": {
+    "heading": "Multiple",
+    "intro": "<p>Chip groups with <strong>multiple</strong> prop can have many values selected.</p>"
+  },
+  "product": {
+    "heading": "Product card",
+    "intro": "<p>The <code>v-chip</code> component can have an explicit value used for its model. This gets passed to the <code>v-chip-group</code> component and is useful for when you don’t want to use the chips index as their values.</p>"
+  },
+  "toothbrush": {
+    "heading": "Toothbrush card",
+    "intro": "<p>Chip groups allow the creation of custom interfaces that perform the same actions as an item group or radio controls, but are stylistically different.</p>"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "intro": "<p>The <code>v-slider</code> component is a better visualization of the number input. It is used for gathering numerical user data.</p>",
+  "disabled": {
+    "heading": "Disabled",
+    "intro": "<p>You cannot interact with <strong>disabled</strong> sliders.</p>"
+  },
+  "minmax": {
+    "heading": "Min and max",
+    "intro": "<p>You can set <strong>min</strong> and <strong>max</strong> values of sliders.</p>"
+  },
+  "step": {
+    "heading": "Step",
+    "intro": "<p><code>v-range-slider</code> can have steps other than 1. This can be helpful for some applications where you need to adjust values with more or less accuracy.</p>"
+  },
+  "vertical": {
+    "heading": "Vertical sliders",
+    "intro": "<p>You can use the <strong>vertical</strong> prop to switch sliders to a vertical orientation. If you need to change the height of the slider, use css.</p>"
+  },
+  "thumb": {
+    "heading": "Thumb label",
+    "intro": "<p>Using the <strong>tick-labels</strong> prop along with the <code>thumb-label</code> slot, you can create a very customized solution.</p>"
+  }
+}

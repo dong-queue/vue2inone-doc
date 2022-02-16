@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-item-group</code> provides the ability to create a group of selectable items out of any component. This is the baseline functionality for components such as <code>v-tabs</code> and <code>v-carousel</code>.</p>",
+  "active": {
+    "heading": "Active class",
+    "intro": "<p>The <strong>active-class</strong> property allows you to set custom CSS class on active items.</p>"
+  },
+  "chips": {
+    "heading": "Chips",
+    "intro": "<p>Easily hook up a custom chip group.</p>"
+  },
+  "selection": {
+    "heading": "Selection",
+    "intro": "<p>Icons can be used as toggle buttons when they allow selection, or deselection, of a single choice, such as marking an item as a favorite.</p>"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "intro": "Properties and events are same with v-text-field.",
+  "default": {
+    "heading": "Usage",
+    "intro": "<p>v-currency has 3 more options. Negative, Precision and Round type. Round type has 3 option values. ( ceil: round up, floor: round down, round: round to precision )</p>"
+  }
+}

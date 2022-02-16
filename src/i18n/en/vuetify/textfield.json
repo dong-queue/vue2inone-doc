@@ -1,0 +1,79 @@
+{
+  "intro": "<p>Text fields components are used for collecting user provided information.</p>",
+  "counter": {
+    "heading": "Counter",
+    "intro": "<p>Use a <strong>counter</strong> prop to inform a user of the character limit. The counter does not perform any validation by itself - you will need to pair it with either the internal validation system, or a 3rd party library. The counter can be customised with the <strong>counter-value</strong> prop and <strong>counter</strong> scoped slot.</p>"
+  },
+  "colors": {
+    "heading": "Custom colors",
+    "intro": "<p>You can optionally change a text field into any color in the Material design palette. Below is an example implementation of a custom form with validation.</p>"
+  },
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can reduces the text field height with <strong>dense</strong> prop.</p>"
+  },
+  "disabled": {
+    "heading": "Disabled and readonly",
+    "intro": "<p>Text fields can be <strong>disabled</strong> or <strong>readonly</strong>.</p>"
+  },
+  "filled": {
+    "heading": "Filled",
+    "intro": "<p>Text fields can be used with an alternative box design. <strong>append-icon</strong> and <strong>prepend-icon</strong> props are <span style=`text-decoration: underline;`><strong>not</strong></span> supported in this mode.</p>"
+  },
+  "hide": {
+    "heading": "Hide details",
+    "intro": "<p>When <strong>hide-details</strong> is set to <code>auto</code> messages will be rendered only if there’s a message (hint, error message, counter value etc) to display.</p>"
+  },
+  "hint": {
+    "heading": "Hint",
+    "intro": "<p>The <strong>hint</strong> property on text fields adds the provided string beneath the text field. Using <strong>persistent-hint</strong> keeps the hint visible when the text field is not focused. Hint prop is <span style=`text-decoration: underline;`><strong>not</strong></span> supported in solo mode.</p>"
+  },
+  "icons": {
+    "heading": "Icons",
+    "intro": "<p>You can add icons to the text field with <strong>prepend-icon</strong>, <strong>append-icon</strong> and <strong>append-outer-icon</strong> props.</p>"
+  },
+  "outlined": {
+    "heading": "Outlined",
+    "intro": "<p>Text fields can be used with an alternative outlined design.</p>"
+  },
+  "presuffix": {
+    "heading": "Prefixes and suffixes",
+    "intro": "<p>The <strong>prefix</strong> and <strong>suffix</strong> properties allows you to prepend and append inline non-modifiable text next to the text field.</p>"
+  },
+  "shaped": {
+    "heading": "Shaped",
+    "intro": "<p><strong>shaped</strong> text fields are rounded if they’re <strong>outlined</strong> and have higher <strong>border-radius</strong> if <strong>filled</strong>.</p>"
+  },
+  "singleline": {
+    "heading": "Single line",
+    "intro": "<p><strong>single-line</strong> text fields do not float their label on focus or with data.</p>"
+  },
+  "solo": {
+    "heading": "Solo",
+    "intro": "<p>Text fields can be used with an alternative solo design.</p>"
+  },
+  "validation": {
+    "heading": "Validation",
+    "intro": "<p>Vuetify includes simple validation through the <strong>rules</strong> prop. The prop accepts a mixed array of types <code>function</code>, <code>boolean</code> and <code>string</code>. When the input value changes, each element in the array will be validated. Functions pass the current v-model as an argument and must return either <code>true</code> / <code>false</code> or a <code>string</code> containing an error message.</p>"
+  },
+  "iconevent": {
+    "heading": "Icon events",
+    "intro": "<p><code>click:prepend</code>, <code>click:append</code>, <code>click:append-outer</code>, and <code>click:clear</code> will be emitted when you click on the respective icon. Note that these events will not be fired if the slot is used instead.</p>"
+  },
+  "iconslot": {
+    "heading": "Icon slots",
+    "intro": "<p>Instead of using <code>prepend</code>/<code>append</code>/<code>append-outer</code> icons you can use slots to extend input’s functionality.</p>"
+  },
+  "progress": {
+    "heading": "Progress",
+    "intro": "<p>You can display a progress bar instead of the bottom line. You can use the default indeterminate progress having same color as the text field or designate a custom one using the <code>progress</code> slot</p>"
+  },
+  "fullwidth": {
+    "heading": "Full width with counter",
+    "intro": "<p>Full width text fields allow you to create boundless inputs. In this example, we use a <code>v-divider</code> to separate the fields.</p>"
+  },
+  "password": {
+    "heading": "Password input",
+    "intro": "<p>Using the HTML input type passwordcan be used with an appended icon and callback to control the visibility.</p>"
+  }
+}

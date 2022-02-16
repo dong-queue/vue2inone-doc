@@ -1,0 +1,39 @@
+{
+  "intro": "<p>The <code>v-dialog</code> component inform users about a specific task and may contain critical information, require decisions, or involve multiple tasks. Use dialogs sparingly because they are interruptive.</p>",
+  "fullscreen": {
+    "heading": "Fullscreen",
+    "intro": "<p>Due to limited space, full-screen dialogs may be more appropriate for mobile devices than dialogs used on devices with larger screens.</p>"
+  },
+  "transitions": {
+    "heading": "Transitions",
+    "intro": "<p>You can make the dialog appear from the top or the bottom.</p>"
+  },
+  "modal": {
+    "heading": "Persistent",
+    "intro": "<p>Similar to a Simple Dialog, except that it’s not dismissed when touching outside.</p>"
+  },
+  "scrollable": {
+    "heading": "Scrollable",
+    "intro": "<p>Example of a dialog with scrollable content.</p>"
+  },
+  "form": {
+    "heading": "Form",
+    "intro": "<p>Just a simple example of a form in a dialog.</p>"
+  },
+  "loader": {
+    "heading": "Loader",
+    "intro": "<p>The <code>v-dialog</code> component makes it easy to create a customized loading experience for your application.</p>"
+  },
+  "nesting": {
+    "heading": "Nesting",
+    "intro": "<p>Dialogs can be nested: you can open one dialog from another.</p>"
+  },
+  "overflowed": {
+    "heading": "Overflowed",
+    "intro": "<p>Modals that do not fit within the available window space will scroll the container.</p>"
+  },
+  "without": {
+    "heading": "Without activator",
+    "intro": "<p>If for some reason you are unable to use the activator slot, be sure to add the <code>.stop</code> modifier to the event that triggers the dialog.</p>"
+  }
+}

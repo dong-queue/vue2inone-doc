@@ -1,0 +1,43 @@
+{
+  "intro": "<p>The <code>v-btn</code> component replaces the standard html button with a material design theme and a multitude of options. Any color helper class can be used to alter the background or text color. <span class=`v-markdown v-markdown--inline d-inline`><p>Try out an interactive screencast on how Vuetify buttons work.</p></span></p>",
+  "block": {
+    "heading": "Block",
+    "intro": "<p><strong>block</strong> buttons extend the full available width.</p>"
+  },
+  "depressed": {
+    "heading": "Depressed",
+    "intro": "<p><strong>depressed</strong> buttons still maintain their background color, but have no box shadow.</p>"
+  },
+  "floating": {
+    "heading": "Floating",
+    "intro": "<p>Floating buttons are rounded and usually contain an icon.</p>"
+  },
+  "icon": {
+    "heading": "Icon",
+    "intro": "<p>Icons can be used for the primary content of a button. This property makes the button rounded and applies the <strong>text</strong> prop styles.</p>"
+  },
+  "loaders": {
+    "heading": "Loaders",
+    "intro": "<p>Using the loading prop, you can notify a user that there is processing taking place. The default behavior is to use a <code>v-progress-circular</code> component but this can be customized.</p>"
+  },
+  "outlined": {
+    "heading": "Outlined",
+    "intro": "<p><strong>outlined</strong> buttons inherit their borders from the current color applied.</p>"
+  },
+  "rounded": {
+    "heading": "Rounded",
+    "intro": "<p><strong>rounded</strong> buttons behave the same as regular buttons but have rounded edges.</p>"
+  },
+  "sizing": {
+    "heading": "Sizing",
+    "intro": "<p>Buttons can be given different sizing options to fit a multitude of scenarios.</p>"
+  },
+  "text": {
+    "heading": "Text",
+    "intro": "<p>Text buttons have no box shadow and no background. Only on hover is the container for the button shown. When used with the <strong>color</strong> prop, the supplied color is applied to the button text instead of the background.</p>"
+  },
+  "tile": {
+    "heading": "Tile",
+    "intro": "<p><strong>tile</strong> buttons behave the same as regular buttons but have no border radius.</p>"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The <code>v-tabs</code> component is used for hiding content behind a selectable item. This can also be used as a pseudo-navigation for a page, where the tabs are links and the tab-items are the content.</p>",
+  "alignTitle": {
+    "heading": "Align with title",
+    "intro": "<p>Make <code>v-tabs</code> lined up with the <code>v-toolbar-title</code> component using the <strong>align-with-title</strong> prop (<code>v-app-bar-nav-icon</code> or <code>v-btn</code> must be used in <code>v-toolbar</code>).</p>"
+  },
+  "center": {
+    "heading": "Center active",
+    "intro": "<p>The <strong>center-active</strong> prop will make the active tab always centered</p>"
+  },
+  "customIcon": {
+    "heading": "Custom icons",
+    "intro": "<p><strong>prev-icon</strong> and <strong>next-icon</strong> can be used for applying custom pagination icons.</p>"
+  },
+  "icontext": {
+    "heading": "Icons and text",
+    "intro": "<p>Using <strong>icons-with-text</strong> prop increases the <code>v-tabs</code> height to 72px to allow for both icons as well as text to be used.</p>"
+  },
+  "right": {
+    "heading": "Right",
+    "intro": "<p>The <strong>right</strong> prop aligns the tabs to the right.</p>"
+  },
+  "vertical": {
+    "heading": "Vertical Tabs",
+    "intro": "<p>The <strong>vertical</strong> prop allows for <code>v-tab</code> components to stack vertically.</p>"
+  }
+}

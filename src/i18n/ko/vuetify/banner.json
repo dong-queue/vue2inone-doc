@@ -1,0 +1,19 @@
+{
+  "intro": [
+    "<p class='text-body-2'>Vuetify에서 제공하는 <code>v-avatar</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 banner 또는 bnr 로 입력 가능합니다.",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "single": {
+    "heading": "Single line",
+    "intro": " "
+  },
+  "iconClick": {
+    "heading": "Icon click",
+    "intro": [
+      "<p>v-iterator에서는 banner의 <code>click:icon</code> event를 사용하는 방법이 조금 다릅니다.",
+      "icon은 <code>slots</code> array 안에 명시적으로 기술되어 있어야 <coode>click:icon</code> event가 제대로 작동합니다.",
+      "<br>slot과 slot 사이에 일반 component를 넣어야 하는 경우 default slot을 사용하시길 바랍니다.</p>"
+    ]
+  }
+}

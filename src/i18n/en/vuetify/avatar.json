@@ -1,0 +1,23 @@
+{
+  "intro": "<p>The <code>v-avatar</code> component is typically used to display circular user profile pictures. This component will allow you to dynamically size and add a border radius of responsive images, icons, and text. A <strong>tile</strong> variation is available for displaying an avatar without border radius.</p>",
+  "size": {
+    "heading": "Size",
+    "intro": "<p>The <code>size</code> prop allows you to define the height and width of <code>v-avatar</code>. This prop scales both evenly with an aspect ratio of 1. <code>height</code> and <code>width</code> props will override this prop.</p>"
+  },
+  "tile": {
+    "heading": "Tile",
+    "intro": "<p>The <code>tile</code> prop removes the border radius from v-avatar leaving you with a simple square avatar.</p>"
+  },
+  "default": {
+    "heading": "Default",
+    "intro": "<p>The <code>v-avatar</code> default slot will accept the <code>v-icon</code> component, an image, or text. Mix and match these with other props to create something unique.</p>"
+  },
+  "advanced": {
+    "heading": "Advanced usage",
+    "intro": "<p>Combining an avatar with other components allows you to build beautiful user interfaces right out of the box.</p>"
+  },
+  "profile": {
+    "heading": "Profile Card",
+    "intro": "<p>Using the <strong>tile</strong> prop, we can create a sleek hard-lined profile card.</p>"
+  }
+}

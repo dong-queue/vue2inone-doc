@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-carousel</code> component is used to display large numbers of visual content on a rotating timer.</p>",
+  "delimiters": {
+    "heading": "Custom delimiters",
+    "intro": "<p>Use any available icon as your carousel’s slide delimiter.</p>"
+  },
+  "transition": {
+    "heading": "Custom transition",
+    "intro": "<p>The <code>v-carousel-item</code> component can have its <strong>transition/reverse-transition</strong> changed.</p>"
+  },
+  "cycle": {
+    "heading": "Cycle",
+    "intro": "<p>With the <strong>cycle</strong> prop you can have your slides automatically transition to the next available every 6s (default).</p>"
+  },
+  "hide": {
+    "heading": "Hide controls",
+    "intro": "<p>You can hide the carousel navigation controls with <code>:show-arrows='false'</code>.</p>"
+  },
+  "arrows": {
+    "heading": "Customized arrows",
+    "intro": "<p>Arrows can be customized by using <strong>prev</strong> and <strong>next</strong> slots.</p>"
+  },
+  "hideDelimiters": {
+    "heading": "Hide delimiters",
+    "intro": "<p>You can hide the bottom controls with <code>hide-delimiters</code> prop.</p>"
+  },
+  "model": {
+    "heading": "Model",
+    "intro": "<p>You can control carousel with model.</p>"
+  }
+}

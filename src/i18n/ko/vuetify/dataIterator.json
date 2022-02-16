@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-data-iterator</code> component is used for displaying data, and shares a majority of its functionality with the <code>v-data-table</code> component. Features include sorting, searching, pagination, and selection.</p>",
+  "default": {
+    "heading": "Default",
+    "intro": "<p>The <code>v-data-iterator</code> has internal state for both selection and expansion, just like <code>v-data-table</code>. In this example we use the methods <code>isExpanded</code> and <code>expand</code> available on the default slot.</p>"
+  },
+  "headerfooter": {
+    "heading": "Header and footer",
+    "intro": "<p>The <code>v-data-iterator</code> has both a header and footer slot for adding extra content.</p>"
+  },
+  "filter": {
+    "heading": "Filter",
+    "intro": "<p>Order, filters and pagination can be controlled externally by using the individual props</p>"
+  }
+}

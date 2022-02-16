@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The v-icon component provides a large set of glyphs to provide context to various aspects of your application. For a list of all available icons, visit the official Material Design Icons page. To use any of these icons simply use the mdi- prefix followed by the icon name.</p>",
+  "color": {
+    "heading": "Color",
+    "intro": "<p>Using color helpers you can change the color of an icon from the standard dark and light themes.</p>"
+  },
+  "click": {
+    "heading": "Click",
+    "intro": "<p>Binding any click event to <code>v-icon</code> will automatically change the cursor to a pointer.</p>"
+  },
+  "buttons": {
+    "heading": "Buttons",
+    "intro": "<p>Icons can be used inside of buttons to add emphasis to the action.</p>"
+  }
+}

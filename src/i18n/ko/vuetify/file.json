@@ -1,0 +1,39 @@
+{
+  "intro": "<p>The <code>v-file-input</code> component is a specialized input that provides a clean interface for selecting files, showing detailed selection information and upload progress. It is meant to be a direct replacement for a standard file input.</p>",
+  "accept": {
+    "heading": "Accept",
+    "intro": "<p>v-file-input component can accept only specific media formats/file types if you want. For more information, checkout the documentation on the accept attribute.</p>"
+  },
+  "chips": {
+    "heading": "Chips",
+    "intro": "<p>A selected file can be displayed as a chip. When using the chips and multiple props, each chip will be displayed (as opposed to the file count)</p>"
+  },
+  "counter": {
+    "heading": "Counter",
+    "intro": "<p>When using the <strong>show-size</strong> property along with <strong>counter</strong>, the total number of files and size will be displayed under the input.</p>"
+  },
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can reduces the file input height with <code>dense</code> prop.</p>"
+  },
+  "multiple": {
+    "heading": "Multiple",
+    "intro": "<p>The <code>v-file-input</code> can contain multiple files at the same time when using the <strong>multiple</strong> prop.</p>"
+  },
+  "prepend": {
+    "heading": "Prepend icon",
+    "intro": "<p>The v-file-input has a default prepend-icon that can be set on the component or adjusted globally. More information on changing global components can be found on the customizing icons page.</p>"
+  },
+  "size": {
+    "heading": "Show size",
+    "intro": "<p>The displayed size of the selected file(s) can be configured with the <strong>show-size</strong> property. Display sizes can be either <span style=`text-decoration: underline;`>1024</span> (the default used when providing <strong>true</strong>) or <span style=`text-decoration: underline;`>1000</span>.</p>"
+  },
+  "validation": {
+    "heading": "Validation",
+    "intro": "<p>Similar to other inputs, you can use the <strong>rules</strong> prop to create your own custom validation parameters.</p>"
+  },
+  "complex": {
+    "heading": "Complex selection slot",
+    "intro": "<p>The flexibility of the selection slot allows you accommodate complex use-cases. In this example we show the first 2 selections as chips while adding a number indicator for the remaining amount.</p>"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The v-slide-group component is used to display pseudo paginated information. It uses v-item-group at its core and provides a baseline for components such as v-tabs and v-chip-group.</p>",
+  "active": {
+    "heading": "Active class",
+    "intro": "<p><strong>active-class</strong> prop allows you to pass a class to customize the active items.</p>"
+  },
+  "customicon": {
+    "heading": "Custom icons",
+    "intro": "<p>You can add your custom pagination icons instead of arrows using the <strong>next-icon</strong> and <strong>prev-icon</strong> props.</p>"
+  },
+  "pseudo": {
+    "heading": "Pseudo Carousel",
+    "intro": "<p>Customize the slide group to creatively display information on sheets. Using the selection, we can display auxillary information easily for the user.</p>"
+  }
+}

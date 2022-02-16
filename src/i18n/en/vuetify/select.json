@@ -1,0 +1,43 @@
+{
+  "intro": "<p>Select fields components are used for collecting user provided information from a list of options.</p>",
+  "custom": {
+    "heading": "Custom text and value",
+    "intro": "<p>You can specify the specific properties within your items array correspond to the text and value fields. By default, this is <strong>text</strong> and <strong>value</strong>. In this example we also use the <strong>return-object</strong> prop which will return the entire object of the selected item on selection.</p>"
+  },
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can use <strong>dense</strong> prop to reduce the field height and lower max height of list items.</p>"
+  },
+  "disabled": {
+    "heading": "Disabled",
+    "intro": "<p>Applying the <strong>disabled</strong> prop to a <code>v-select</code> will prevent a user from interacting with the component.</p>"
+  },
+  "icons": {
+    "heading": "Icons",
+    "intro": "<p>Use a custom prepended or appended icon.</p>"
+  },
+  "light": {
+    "heading": "Light",
+    "intro": "<p>A standard single select has a multitude of configuration options.</p>"
+  },
+  "menu": {
+    "heading": "Menu props",
+    "intro": "<p>Custom props can be passed directly to <code>v-menu</code> using <strong>menuProps</strong> prop. In this example menu is force directed to top and shifted to top.</p>"
+  },
+  "multiple": {
+    "heading": "Multiple",
+    "intro": "<p>A multi-select can utilize <code>v-chip</code> as the display for selected items.</p>"
+  },
+  "readonly": {
+    "heading": "Readonly",
+    "intro": "<p>You cannot use read-only <code>v-select</code>, but it looks default.</p>"
+  },
+  "appendprepend": {
+    "heading": "Append and prepend item",
+    "intro": "<p>The <code>v-select</code> components can be optionally expanded with prepended and appended items. This is perfect for customized <strong>select-all</strong> functionality.</p>"
+  },
+  "selection": {
+    "heading": "Selection",
+    "intro": "<p>The <strong>selection</strong> slot can be used to customize the way selected values are shown in the input. This is great when you want something like <code>foo (+20 others)</code> or don’t want the selection to occupy multiple lines.</p>"
+  }
+}

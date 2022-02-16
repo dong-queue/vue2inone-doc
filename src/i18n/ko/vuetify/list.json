@@ -1,0 +1,67 @@
+{
+  "intro": "<p>The <code>v-list</code> component is used to display information. It can contain an avatar, content, actions, subheaders and much more. Lists present content in a way that makes it easy to identify a specific item in a collection. They provide a consistent styling for organizing groups of text and images.</p>",
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p><code>v-list</code> can be lowered with <strong>dense</strong> property.</p>"
+  },
+  "disabled": {
+    "heading": "Disabled",
+    "intro": "<p>You cannot interact with disabled <code>v-list</code>.</p>"
+  },
+  "flat": {
+    "heading": "Flat",
+    "intro": "<p>Items don’t change when selected in <code>v-list</code> with <strong>flat</strong> property.</p>"
+  },
+  "nav": {
+    "heading": "Nav",
+    "intro": "<p>Lists can receive an alternative <strong>nav</strong> styling that reduces the width <code>v-list-item</code> takes up as well as adding a border radius.</p>"
+  },
+  "rounded": {
+    "heading": "Rounded",
+    "intro": "<p>You can make <code>v-list</code> items rounded.</p>"
+  },
+  "shaped": {
+    "heading": "Shaped",
+    "intro": "<p>Shaped lists have rounded borders on one side of the <code>v-list-item</code>.</p>"
+  },
+  "subgroup": {
+    "heading": "Sub group",
+    "intro": "<p>Using the <code>v-list-group</code> component you can create up to <strong>2</strong> levels in depth using the <strong>sub-group</strong> prop.</p>"
+  },
+  "three": {
+    "heading": "Three line",
+    "intro": "<p>For three line lists, the subtitle will clamp vertically at 2 lines and then ellipsis. This feature uses line-clamp and is not supported in all browsers.</p>"
+  },
+  "two": {
+    "heading": "Two lines and subheader",
+    "intro": "<p>Lists can contain subheaders, dividers, and can contain 1 or more lines. The subtitle will overflow with ellipsis if it extends past one line.</p>"
+  },
+  "expansion": {
+    "heading": "Expansion Lists",
+    "intro": "<p>A list can contain a group of items which will display on click utilizing v-item-group's activator slot. Expansion lists are also used within the v-navigation-drawer component.</p>"
+  },
+  "action": {
+    "heading": "Action and item groups",
+    "intro": "<p>A three-line list with actions. Utilizing v-list-item-group, easily connect actions to your tiles.</p>"
+  },
+  "stack": {
+    "heading": "Action stack",
+    "intro": "<p>A list can contain a stack within an action. This is useful when you need to display meta text next to your action item.</p>"
+  },
+  "card": {
+    "heading": "Card list",
+    "intro": "<p>A list can be combined with a card.</p>"
+  },
+  "simple": {
+    "heading": "Simple avatar list",
+    "intro": "<p><p>A simple list utilizing <code>v-list-item-icon</code>, <code>v-list-item-title</code> and <code>v-list-item-avatar</code>.</p></p>"
+  },
+  "single": {
+    "heading": "Single line list",
+    "intro": "<p>Here we combine <strong>v-list-item-avatar</strong> and <strong>v-list-item-icon</strong> in a single-line list.</p>"
+  },
+  "subheadings": {
+    "heading": "Subheadings and dividers",
+    "intro": "<p>Lists can contain multiple subheaders and dividers.</p>"
+  }
+}

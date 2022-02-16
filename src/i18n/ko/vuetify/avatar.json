@@ -1,0 +1,28 @@
+{
+  "intro": [
+    "<p class='text-body-2'>Vuetify에서 제공하는 <code>v-avatar</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 avatar 또는 ava 로 입력 가능합니다.",
+    "avatar는 text, image, icon 개체를 하위에 포함시켜 표현할 수 있습니다. 하위에 포함시킬 개체는 items: [{}] 문법을 사용합니다.",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "size": {
+    "heading": "Size",
+    "intro": " "
+  },
+  "tile": {
+    "heading": "Tile",
+    "intro": " "
+  },
+  "default": {
+    "heading": "Default",
+    "intro": " "
+  },
+  "advanced": {
+    "heading": "Advanced usage",
+    "intro": " "
+  },
+  "profile": {
+    "heading": "Profile Card",
+    "intro": " "
+  }
+}

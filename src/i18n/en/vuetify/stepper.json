@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-stepper</code> component displays progress through numbered steps.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>A stepper can be used for a multitude of scenarios, including shopping carts, record creation and more.</p>"
+  },
+  "label": {
+    "heading": "Alternate label",
+    "intro": "<p>Steppers also have an alternative label style which places the title under the step itself.</p>"
+  },
+  "nonlinear": {
+    "heading": "Non linear",
+    "intro": "<p>Non-linear steppers allow the user to move through your process in whatever way they choose.</p>"
+  },
+  "vertical": {
+    "heading": "Vertical",
+    "intro": "<p>Vertical steppers move users along the y-axis and otherwise work exactly the same as their horizontal counterpart.</p>"
+  },
+  "labelerror": {
+    "heading": "Alternative label with errors",
+    "intro": "<p>The error state can also be applied to the alternative label style.</p>"
+  },
+  "dynamic": {
+    "heading": "Dynamic steps",
+    "intro": "<p>Steppers can have their steps dynamically added or removed. If a currently active step is removed, be sure to account for this by changing the applied model.</p>"
+  },
+  "optional": {
+    "heading": "Optional steps",
+    "intro": "<p>An optional step can be called out with sub-text.</p>"
+  }
+}

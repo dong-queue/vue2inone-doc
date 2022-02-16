@@ -1,0 +1,7 @@
+{
+  "intro": "<p>The <code>v-time-picker</code> is stand-alone component that can be utilized in many existing Vuetify components. It offers the user a visual representation for selecting the time.</p>",
+  "allowed": {
+    "heading": "Allowed times",
+    "intro": "<p>You can specify allowed times using arrays, objects, and functions. You can also specify time step/precision/interval - e.g. 10 minutes.</p>"
+  }
+}

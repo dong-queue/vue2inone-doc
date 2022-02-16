@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-autocomplete</code> component offers simple and flexible type-ahead functionality. This is useful when searching large sets of data or even dynamically requesting information from an API.</p>",
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can use <code>dense</code> prop to reduce autocomplete height and lower max height of list items.</p>"
+  },
+  "filter": {
+    "heading": "Filter",
+    "intro": "<p>The <code>filter</code> prop can be used to filter each individual item with custom logic. In this example we filter items by name.</p>"
+  },
+  "slots": {
+    "heading": "Item and selection",
+    "intro": "<p>With the power of slots, you can customize the visual output of the select. In this example we add a profile picture for both the chips and list items.</p>"
+  },
+  "apisch": {
+    "heading": "API search",
+    "intro": "<p>Easily hook up dynamic data and create a unique experience. The <code>v-autocomplete</code>'s expansive prop list makes it easy to fine tune every aspect of the input.</p>"
+  },
+  "async": {
+    "heading": "Asynchronous items",
+    "intro": "<p>Sometimes you need to load data externally based upon a search query. Use the <code>search-input</code> prop with the <strong>.sync</strong> modifier when using the <code>autocomplete</code> prop. We also make use of the new <code>cache-items</code> prop. This will keep a unique list of all items that have been passed to the <code>items</code> prop and is <strong>REQUIRED</strong> when using asynchronous items and the <strong>multiple</strong> prop.</p>"
+  },
+  "cryptocurrency": {
+    "heading": "Cryptocurrency selector",
+    "intro": "<p>The <code>v-autocomplete</code> component is extremely flexible and can fit in just about any use-case. Create custom displays for <strong>no-data</strong>, <strong>item</strong> and <strong>selection</strong> slots to provide a unique user experience. Using <span style=`text-decoration: underline;`>slots</span> enables you to easily customize the desired look for your application.</p>"
+  },
+  "state": {
+    "heading": "State selector",
+    "intro": "<p>Using a combination of <code>v-autocomplete</code> slots and transitions, you can create a stylish toggleable autocomplete field such as this state selector.</p>"
+  }
+}

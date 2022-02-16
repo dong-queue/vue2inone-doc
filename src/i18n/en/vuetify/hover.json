@@ -1,0 +1,11 @@
+{
+  "intro": "<p>The <code>v-hover</code> component provides a clean interface for handling hover states for any component.</p>",
+  "list": {
+    "heading": "Hover list",
+    "intro": "<p><code>v-hover</code> can be used in combination with <code>v-for</code> to make a single item stand out when the user interacts with the list.</p>"
+  },
+  "transition": {
+    "heading": "Transition",
+    "intro": "<p>Create highly customized components that respond to user interaction.</p>"
+  }
+}

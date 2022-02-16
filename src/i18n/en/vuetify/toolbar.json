@@ -1,0 +1,47 @@
+{
+  "intro": "<p>The <code>v-toolbar</code> component is pivotal to any gui, as it generally is the primary source of site navigation. The toolbar component works great in conjunction with v-navigation-drawer and v-card.</p>",
+  "include": {
+    "heading": "Example",
+    "intro": "<p></p>"
+  },
+  "background": {
+    "heading": "Background",
+    "intro": "<p>Toolbars can display a background as opposed to a solid color using the <strong>src</strong> prop. This can be modified further by using the <strong>img</strong> slot and providing your own v-img component. Backgrounds can be faded using a v-app-bar.</p>"
+  },
+  "collapse": {
+    "heading": "Collapse",
+    "intro": "<p>Toolbars can be collapsed to save screen space.</p>"
+  },
+  "dense": {
+    "heading": "Dense toolbars",
+    "intro": "<p>Dense toolbars reduce their height to <span style=`text-decoration: underline;`>48px</span>. When using in conjunction with the <strong>prominent</strong> prop, will reduce height to <span style=`text-decoration: underline;`>96px</span>.</p>"
+  },
+  "height": {
+    "heading": "Extension height",
+    "intro": "<p>The extension’s height can be customized.</p>"
+  },
+  "floating": {
+    "heading": "Floating with search",
+    "intro": "<p>A floating toolbar is turned into an inline element that only takes up as much space as needed. This is particularly useful when placing toolbars over content.</p>"
+  },
+  "light": {
+    "heading": "Light and Dark",
+    "intro": "<p>Toolbars come in <strong>2</strong> variants, light and dark. Light toolbars have dark tinted buttons and dark text whereas dark toolbars have white tinted buttons and white text.</p>"
+  },
+  "prominent": {
+    "heading": "Prominent toolbars",
+    "intro": "<p>Prominent toolbars increase the <code>v-toolbar</code>'s height to <span style=`text-decoration: underline;`>128px</span> and positions the <code>v-toolbar-title</code> towards the bottom of the container. This is expanded upon in v-app with the ability to shrink a <strong>prominent</strong> toolbar to a <strong>dense</strong> or <strong>short</strong> one.</p>"
+  },
+  "contextual": {
+    "heading": "Contextual action bar",
+    "intro": "<p>It is possible to update the appearance of a toolbar in response to changes in app state. In this example, the color and content of the toolbar changes in response to user selections in the <code>v-select</code>.</p>"
+  },
+  "flexible": {
+    "heading": "Flexible and card toolbar",
+    "intro": "<p>In this example we offset our card onto the extended content area of a toolbar using the <strong>extended</strong> prop.</p>"
+  },
+  "variations": {
+    "heading": "Variations",
+    "intro": "<p>A <code>v-toolbar</code> has multiple variations that can be applied with themes and helper classes. These range from light and dark themes, colored and transparent.</p>"
+  }
+}

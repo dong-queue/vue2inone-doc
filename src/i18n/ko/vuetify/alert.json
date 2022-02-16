@@ -1,0 +1,28 @@
+{
+  "intro": [
+    "<p class='text-body-2'>Vuetify에서 제공하는 <code>v-alert</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 alert 또는 alt 로 입력 가능합니다.",
+    "",
+    "■ 추가 속성",
+    "- itemtext: alert에 보여줄 메시지. 다국어 코드, 텍스트, Array, Function 사용가능",
+    "- html: alert에 html 양식으로 보여줄 메시지. 다국어 코드, html, Array, Function 사용가능",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "border": {
+    "heading": "Border",
+    "intro": [
+      "<p class='text-body-2'>아래 예제에서 사용된 itemtext 속성은 v-iterator에서 추가된 속성으로 <strong>{itemtext: '텍스트 내용'}</strong> 또는 다국어를 위해 i18n을 사용하는 경우 <strong>{itemtext: 'common.lang'}</strong> 과 같은 형태로 사용할 수 있습니다.</p>"
+    ]
+  }, 
+  "colorBorder": {
+    "heading": "Colored border",
+    "intro": "<p class='text-body-2'><code>colored-border</code> 속성은 coloredBorder 와 같이 camel case로 입력하거나 'colored-border' 와 같이 입력 가능합니다.</p>"
+  }, 
+  "dismissible": {
+    "heading": "Dismissible",
+    "intro": [
+      "<p class='text-body-2'>하위에 컴퍼넌트를 추가할 때는 items: [] 를 사용합니다.",
+      "if: [{target: , value: }], show: [{target: , value: }] 를 통해 visiblility를 조정할 수 있습니다.</p>"
+    ]
+  }
+}

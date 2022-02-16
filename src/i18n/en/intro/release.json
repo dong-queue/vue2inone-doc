@@ -1,0 +1,61 @@
+{
+  "intro": [
+    "<p class='text-body-2'>We constantly reflect minor (fix bugs, improve features) and major (add UI framework) updates.",
+    "Vue3 will be supported as soon as the Vue3 version of the included UI framework is updated.</p>",
+    ""
+  ],
+  "112": {
+    "heading": ["", "v1.1.2", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: bug fix",
+      "<strong>Objectives</strong>: fixed rendering error when using vuetify component 'v-card-subtitle'",
+      "</p>"
+    ]
+  },
+  "111": {
+    "heading": ["", "v1.1.1", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: bug fix",
+      "<strong>Objectives</strong>: When using 'if', the comparison logic does not work when the comparison value is boolean type that is included in array",
+      "</p>"
+    ]
+  },
+  "110": {
+    "heading": ["", "v1.1.0", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: support vue2 UI framework",
+      "<strong>Objectives</strong>: Element-UI",
+      "</p>"
+    ]
+  },
+  "108": {
+    "heading": ["", "v1.0.8", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: support vue2 chart solution",
+      "<strong>Objectives</strong>: AG chart vue",
+      "</p>"
+    ]
+  },
+  "106": {
+    "heading": ["", "v1.0.6", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: support vue2 data grid",
+      "<strong>Objectives</strong>: Ag grid vue",
+      "</p>"
+    ]
+  },
+  "101": {
+    "heading": ["", "v1.0.1", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>Overview</strong>: support UI framework",
+      "<strong>Objectives</strong>: Vuetify 2.X",
+      "</p>"
+    ]
+  }
+}

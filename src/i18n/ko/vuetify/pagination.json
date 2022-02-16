@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The <code>v-pagination</code> component is used to separate long sets of data so that it is easier for a user to consume information. Depending on the length provided, the pagination component will automatically scale. To maintain the current page, simply supply a <strong>v-model</strong> attribute.</p>",
+  "circle": {
+    "heading": "Circle",
+    "intro": "<p>The <strong>circle</strong> prop gives you an alternate style for pagination buttons.</p>"
+  },
+  "length": {
+    "heading": "Length",
+    "intro": "<p>Using the <strong>length</strong> prop you can set the length of <code>v-pagination</code>, if the number of page buttons exceeds the parent container, it will truncate the list.</p>"
+  },
+  "total": {
+    "heading": "Total visible",
+    "intro": "<p>You can also manually set the maximum number of visible page buttons with the <strong>total-visible</strong> prop.</p>"
+  }
+}

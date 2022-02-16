@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The <code>v-checkbox</code> component provides users the ability to choose between two distinct values. These are very similar to a switch and can be used in complex forms and checklists. A simpler version, <code>v-simple-checkbox</code> is used primarily as a lightweight alternative in data-table components to select rows or display inline boolean data.</p>",
+  "colors": {
+    "heading": "Colors",
+    "intro": "<p>Checkboxes can be colored by using any of the builtin colors and contextual names using the <strong>color</strong> prop.</p>"
+  },
+  "array": {
+    "heading": "Model as array",
+    "intro": "<p>Multiple <code>v-checkbox</code>'s can share the same <strong>v-model</strong> by using an array.</p>"
+  },
+  "boolean": {
+    "heading": "Model as boolean",
+    "intro": "<p>A single <code>v-checkbox</code> will have a boolean value as its <strong>value</strong>.</p>"
+  },
+  "states": {
+    "heading": "States",
+    "intro": "<p><code>v-checkbox</code> can have different states such as <strong>default</strong>, <strong>disabled</strong>, and <strong>indeterminate</strong>.</p>"
+  },
+  "label": {
+    "heading": "Label slot",
+    "intro": "<p>Checkbox labels can be defined in <code>label</code> slot - that will allow to use HTML content.</p>"
+  },
+  "inline": {
+    "heading": "Inline text-field",
+    "intro": "<p>You can place <code>v-checkbox</code> in line with other components such as <code>v-text-field</code>.</p>"
+  }
+}

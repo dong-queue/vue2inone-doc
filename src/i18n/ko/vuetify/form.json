@@ -1,0 +1,11 @@
+{
+  "intro": "<p>When it comes to form validation, Vuetify has a multitude of integrations and baked in functionality. Want to use a 3rd party validation plugin? Out of the box you can use Vee-validate and vuelidate.</p>",
+  "rules": {
+    "heading": "Rules",
+    "intro": "<p>Rules allow you to apply custom validation on all form components. These are validated sequentially and will display a <strong>maximum</strong> of 1 error at a time, so make sure you order your rules accordingly.</p>"
+  },
+  "submit": {
+    "heading": "Validation with submit & clear",
+    "intro": "<p>The <code>v-form</code> component has <strong>three</strong> functions that can be accessed by setting a <span style=`text-decoration: underline;`>ref</span> on the component. A ref allows us to access internal methods on a component, for example, <code>&lt;v-form ref=`form`&gt;</code>. <strong>this.$refs.form.validate()</strong> will validate all inputs and return if they are all valid or not. <strong>this.$refs.form.reset()</strong> will clear all inputs and reset their validation errors. <strong>this.$refs.form.resetValidation()</strong> will only reset input validation and not alter their state.</p>"
+  }
+}

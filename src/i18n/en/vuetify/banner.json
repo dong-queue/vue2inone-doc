@@ -1,0 +1,14 @@
+{
+  "intro": "<p>The <code>v-banner</code> component is used as middle-interruptive message to user with 1-2 actions. It comes in 2 variations <strong>single-line</strong> and <strong>multi-line</strong> (implicit). These can have icons which you can use with your message and actions.</p>",
+  "single": {
+    "heading": "Single line",
+    "intro": [
+      "<p><strong>Single-line</strong> VBanner is used for small amount of information and is recommended for <strong>desktop</strong> only implementations.",
+      "You can optionally enable the <strong>sticky</strong> prop to ensure the content is pinned to the screen (does not work in IE11)."
+      ]
+  },
+  "iconClick": {
+    "heading": "Icon click",
+    "intro": "<p>VBanner emits <code>click:icon</code> event on icon click, even with custom icon slot. But, <code>click:icon</code> is not working here.</p>"
+  }
+}

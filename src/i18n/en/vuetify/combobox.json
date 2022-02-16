@@ -1,0 +1,19 @@
+{
+  "intro": "<p>The <code>v-combobox</code> component is a v-autocomplete that allows the user to enter values that do not exist within the provided <strong>items</strong>. Created items will be returned as strings.</p>",
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can use <code>dense</code> prop to reduce combobox height and lower max height of list items.</p>"
+  },
+  "multiple": {
+    "heading": "Multiple combobox",
+    "intro": "<p>Previously known as <strong>tags</strong> - user is allowed to enter more than 1 value</p>"
+  },
+  "nodata": {
+    "heading": "No data with chips",
+    "intro": "<p>In this example we utilize a custom <strong>no-data</strong> slot to provide context to the user when searching / creating items.</p>"
+  },
+  "advanced": {
+    "heading": "Advanced custom options",
+    "intro": "<p>The <code>v-combobox</code> improves upon the added functionality from <code>v-select</code> and <code>v-autocomplete</code>. This provides you with an expansive interface to create truly customized implementations. This example takes advantage of some more advanced features such as a custom <strong>filter</strong> algorithm, inline list editing and dynamic input items.</p>"
+  }
+}

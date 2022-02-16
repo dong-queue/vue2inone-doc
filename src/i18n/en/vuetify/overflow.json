@@ -1,0 +1,43 @@
+{
+  "intro": "<p><code>v-overflow-btn</code> is used to give the user the ability to select items from the list. It has 3 variations: <code>editable</code>, <code>overflow</code> and <code>segmented</code></p>",
+  "counter": {
+    "heading": "Counter",
+    "intro": "<p>You can add a counter to <code>v-overflow-btn</code> to control the max char count</p>"
+  },
+  "dense": {
+    "heading": "Dense",
+    "intro": "<p>You can use <code>dense</code> prop to reduce overflow button height and lower max height of list items.</p>"
+  },
+  "disabled": {
+    "heading": "Disabled",
+    "intro": "<p><code>v-overflow-btn</code> can be disabled in order to prevent a user from interacting with it</p>"
+  },
+  "editable": {
+    "heading": "Editable",
+    "intro": "<p><code>editable</code> <code>v-overflow-btn</code> can be directly edited, just as <code>v-text-field</code></p>"
+  },
+  "filled": {
+    "heading": "Filled",
+    "intro": "<p>Text fields can be used with an alternative box design. Append and prepend icon props are <strong>not</strong> supported in this mode.</p>"
+  },
+  "hint": {
+    "heading": "Hint",
+    "intro": "<p>You can add a hint for the user using the <code>hint</code> property</p>"
+  },
+  "loading": {
+    "heading": "Loading",
+    "intro": "<p><code>v-overflow-btn</code> can have <code>loading</code> state with a linear progress bar under them</p>"
+  },
+  "menu": {
+    "heading": "Menu props",
+    "intro": "<p>You can set underlying <code>v-menu</code> props using <code>menu-props</code> property</p>"
+  },
+  "readonly": {
+    "heading": "Readonly",
+    "intro": "<p><code>v-overflow-btn</code> can be put into <code>readonly</code> mode, it’ll become inactive but won’t change the color</p>"
+  },
+  "segmented": {
+    "heading": "Segmented",
+    "intro": "<p><code>segmented</code> <code>v-overflow-btn</code> has and additional divider between the content and the icon</p>"
+  }
+}

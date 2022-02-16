@@ -1,0 +1,56 @@
+{
+  "intro": [
+    "<p class='text-body-2'>Vuetify에서 제공하는 <code>v-toolbar</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 toolbar 또는 tlb 로 입력 가능합니다.",
+    "",
+    "■ 추가속성", 
+    "<code>appBarNavIcon</code>: <span class='text-caption'>boolean, { if:[{target: , value: }], show: [{target: , value: }], class: , style: , evnts: [], 해당 object vuetify 속성 }</span>",
+    "<code>title</code>: <span class='text-caption'>{if:[{target: , value: }], show: [{target: , value: }], class: , style:, itemtext: , 해당 object vuetify 속성 }</span>",
+    "<code>items</code>: <span class='text-caption'>[]</span>",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "include": {
+    "heading": "Example",
+    "intro": "<p></p>"
+  },
+  "background": {
+    "heading": "Background",
+    "intro": "<p></p>"
+  },
+  "collapse": {
+    "heading": "Collapse",
+    "intro": "<p></p>"
+  },
+  "dense": {
+    "heading": "Dense toolbars",
+    "intro": "<p></p>"
+  },
+  "height": {
+    "heading": "Extension height",
+    "intro": "<p></p>"
+  },
+  "floating": {
+    "heading": "Floating with search",
+    "intro": "<p></p>"
+  },
+  "light": {
+    "heading": "Light and Dark",
+    "intro": "<p></p>"
+  },
+  "prominent": {
+    "heading": "Prominent toolbars",
+    "intro": "<p></p>"
+  },
+  "contextual": {
+    "heading": "Contextual action bar",
+    "intro": "<p></p>"
+  },
+  "flexible": {
+    "heading": "Flexible and card toolbar",
+    "intro": "<p></p>"
+  },
+  "variations": {
+    "heading": "Variations",
+    "intro": "<p></p>"
+  }
+}

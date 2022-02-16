@@ -1,0 +1,19 @@
+{
+  "intro": "<p>The <code>v-menu</code> component shows a menu at the position of the element used to activate it.</p>",
+  "absoluteWithout": {
+    "heading": "Absolute without activator",
+    "intro": "<p>Menus can also be used without an activator by using <strong>absolute</strong> together with the props <strong>position-x</strong> and <strong>position-y</strong>. Try right-clicking anywhere on the image.</p>"
+  },
+  "close": {
+    "heading": "Close on click",
+    "intro": "<p>Menu can be closed when lost focus.</p>"
+  },
+  "popover": {
+    "heading": "Popover menu",
+    "intro": "<p>A menu can be configured to be static when opened, allowing it to function as a popover. This can be useful when there are multiple interactive items within the menu contents.</p>"
+  },
+  "usein": {
+    "heading": "Use In components",
+    "intro": "<p>Menus can be placed within almost any component.</p>"
+  }
+}

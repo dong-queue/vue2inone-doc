@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The <code>v-switch</code> component provides users the ability to choose between two distinct values. These are very similar to a toggle, or on/off switch, though aesthetically different than a checkbox.</p>",
+  "colors": {
+    "heading": "Colors",
+    "intro": "<p>Switches can be colored by using any of the builtin colors and contextual names using the <strong>color</strong> prop.</p>"
+  },
+  "flat": {
+    "heading": "Flat",
+    "intro": "<p>You can make switch render without elevation of thumb using <strong>flat</strong> property.</p>"
+  },
+  "inset": {
+    "heading": "Inset",
+    "intro": "<p>You can make switch render in inset mode.</p>"
+  },
+  "boolean": {
+    "heading": "Model as boolean",
+    "intro": "<p>A single <code>v-switch</code> will have a boolean value as its <strong>value</strong>.</p>"
+  },
+  "states": {
+    "heading": "States",
+    "intro": "<p><code>v-switch</code> can have different states such as <strong>default</strong>, <strong>disabled</strong>, and <strong>loading</strong>.</p>"
+  },
+  "label": {
+    "heading": "Label",
+    "intro": "<p>Switch labels can be defined in <code>label</code> slot - that will allow to use HTML content.</p>"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-bottom-navigation</code> component is an alternative to the sidebar. It is primarily used for mobile applications and comes in three variants, <strong>icons</strong> and <strong>text</strong>, and <strong>shift</strong>.</p>",
+  "color": {
+    "heading": "Color",
+    "intro": "<p>The <strong>color</strong> prop applies a color to the background the bottom navigation. We recommend using the <strong>light</strong> and <strong>dark</strong> props to properly contrast text color.</p>"
+  },
+  "grow": {
+    "heading": "Grow",
+    "intro": "<p>Using the <strong>grow</strong> property forces v-btn components to <span style=`text-decoration: underline;`>fill</span> all available space. Buttons have a maximum width of <strong>168px</strong> per the Bottom Navigation MD specification.</p>"
+  },
+  "hide": {
+    "heading": "Hide on scroll",
+    "intro": "<p>The <code>v-bottom-navigation</code> component hides when <em>scrolling up</em> when using the <strong>hide-on-scroll</strong> property. This is similar to the scrolling techniques that are supported in v-app-bar. In the following example, scroll <em>up and down</em> to see this behavior.</p>"
+  },
+  "horizontal": {
+    "heading": "Horizontal",
+    "intro": "<p>Adjust the style of buttons and icons by using the <strong>horizontal</strong> prop. This positions button text <em>inline</em> with the provided v-icon.</p>"
+  },
+  "scroll": {
+    "heading": "Scroll threshold",
+    "intro": "<p>Modify the <strong>scroll-threshold</strong> property to increase the distance a user must scroll before the <code>v-bottom-navigation</code> is hidden.</p>"
+  },
+  "shift": {
+    "heading": "Shift",
+    "intro": "<p>The <strong>shift</strong> prop hides button text when not active. This provides an alternative visual style to the <code>v-bottom-navigation</code> component.</p>"
+  },
+  "toggle": {
+    "heading": "Toggle",
+    "intro": "<p>The display state of <code>v-bottom-navigation</code> can be toggled using the <strong>input-value</strong> prop. You can also control the currently active button using <strong>v-model</strong>.</p>"
+  }
+}

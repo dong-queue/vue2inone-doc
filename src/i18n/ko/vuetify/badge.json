@@ -1,0 +1,24 @@
+{
+  "intro": [
+    "<p class='text-body-2'>Vuetify에서 제공하는 <code>v-badge</code>의 속성/이벤트/펑션은 모두 사용 가능합니다. component명은 badge 또는 bge 로 입력 가능합니다.",
+    "badge를 먼저 작성 후 하위에 items: [{}] 로 badge가 표시될 컴퍼넌트를 기술합니다.",
+    "",
+    "아래 예제를 자유롭게 수정하고 apply 버튼을 눌러 적용해 보세요.</p>"
+  ],
+  "custom": {
+    "heading": "Customization options",
+    "intro": " "
+  },
+  "notifications": {
+    "heading": "Dynamic notifications",
+    "intro": " "
+  },
+  "hover": {
+    "heading": "Show on hover",
+    "intro": " "
+  },
+  "tabs": {
+    "heading": "Tabs",
+    "intro": " "
+  }
+}

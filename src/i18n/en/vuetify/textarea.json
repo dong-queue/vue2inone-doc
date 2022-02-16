@@ -1,0 +1,39 @@
+{
+  "intro": "<p>Textarea components are used for collecting large amounts of textual data.</p>",
+  "grow": {
+    "heading": "Auto grow",
+    "intro": "<p>When using the <code>auto-grow</code> prop, textarea’s will automatically increase in size when the contained text exceeds its size.</p>"
+  },
+  "background": {
+    "heading": "Background color",
+    "intro": "<p>The <code>background-color</code> and <code>color</code> props give you more control over styling <code>v-textarea</code>'s.</p>"
+  },
+  "autocomplete": {
+    "heading": "Browser autocomplete",
+    "intro": "<p>The <code>autocomplete</code> prop gives you the option to enable the browser to predict user input.</p>"
+  },
+  "clearable": {
+    "heading": "Clearable",
+    "intro": "<p>You can clear the text from a <code>v-textarea</code> by using the <code>clearable</code> prop, and customize the icon used with the <code>clearable-icon</code> prop.</p>"
+  },
+  "counter": {
+    "heading": "Counter",
+    "intro": "<p>The <code>counter</code> prop informs the user of a character limit for the <code>v-textarea</code>.</p>"
+  },
+  "icons": {
+    "heading": "Icons",
+    "intro": "<p>The <code>append-icon</code> and <code>prepend-icon</code> props help add context to <code>v-textarea</code>.</p>"
+  },
+  "noresize": {
+    "heading": "No resize",
+    "intro": "<p><code>v-textarea</code>'s have the option to remain the same size regardless of their content’s size, using the <code>no-resize</code> prop.</p>"
+  },
+  "rows": {
+    "heading": "Rows",
+    "intro": "<p>The <code>rows</code> prop allows you to define how many rows the textarea has, when combined with the <code>row-height</code> prop you can further customize your rows by defining their height.</p>"
+  },
+  "signup": {
+    "heading": "Signup form",
+    "intro": "<p>Utilizing alternative input styles, you can create amazing interfaces that are easy to build and easy to use.</p>"
+  }
+}

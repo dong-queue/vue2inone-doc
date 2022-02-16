@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The <code>v-card</code> component is a versatile component that can be used for anything from a panel to a static image. The <strong>card</strong> component has numerous helper components to make markup as easy as possible. Components that have no listed options use Vue’s functional component option for faster rendering and serve as markup sugar to make building easier. <span class=`v-markdown v-markdown--inline d-inline`><p>Try out an interactive screencast on how Vuetify cards work.</p></span></p>",
+  "loading": {
+    "heading": "Loading",
+    "intro": "<p>Cards can be set to a loading state when processing a user action. This disables further actions and provides visual feedback with an indeterminate v-progress-linear.</p>"
+  },
+  "outlined": {
+    "heading": "Outlined",
+    "intro": "<p>An <strong>outlined</strong> card has 0 elevation and contains a soft border.</p>"
+  },
+  "reveal": {
+    "heading": "Card Reveal",
+    "intro": "<p>Using v-expand-transition and a <code>@click</code> event you can have a card that reveals more information once the button is clicked, activating the hidden card to be revealed.</p>"
+  },
+  "media": {
+    "heading": "Media with text",
+    "intro": "<p>Using the layout system, we can add custom text anywhere within the background.</p>"
+  },
+  "twitter": {
+    "heading": "Twitter card",
+    "intro": "<p>The <code>v-card</code> component has multiple children components that help you build complex examples without having to worry about spacing. This example is comprised of the <code>v-card-title</code>, <code>v-card-text</code> and <code>v-card-actions</code> components.</p>"
+  },
+  "weather": {
+    "heading": "Weather card",
+    "intro": "<p>Using v-list-items and a v-slider, we are able to create a unique weather card. The list components ensure that we have consistent spacing and functionality while the slider component allows us to provide a useful interface of selection to the user.</p>"
+  }
+}

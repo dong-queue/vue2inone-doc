@@ -1,0 +1,19 @@
+{
+  "intro": "<p>The <code>v-radio</code> component is a simple radio button. When combined with  the <code>v-radio-group</code> component you can provide groupable functionality to allow users to select from a predefined set of options.</p>",
+  "colors": {
+    "heading": "Colors",
+    "intro": "<p>Radios can be colored by using any of the builtin colors and contextual names using the <strong>color</strong> prop.</p>"
+  },
+  "direction": {
+    "heading": "Direction",
+    "intro": "<p>Radio-groups can be presented either as a row or a column, using their respective props. The default is as a column.</p>"
+  },
+  "mandatory": {
+    "heading": "Mandatory",
+    "intro": "<p>Radio-groups are by default not mandatory. This can be changed with the <strong>mandatory</strong> prop.</p>"
+  },
+  "label": {
+    "heading": "Label",
+    "intro": "<p>Radio Group labels can be defined in <code>label</code> slot - that will allow to use HTML content.</p>"
+  }
+}

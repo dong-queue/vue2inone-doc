@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-calendar</code> component is used to display information in a daily, weekly, monthly, or category view. The daily view has slots for all day or timed elements, and the weekly and monthly view has a slot for each day. The category view has a slot for each category in the day and timed sections based on the categories given or the categories in the given events. Optionally you can pass in an array of events and they will be rendered over the appropriate days and times.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>A calendar has a type and a value which determines what type of calendar is shown over what span of time. This shows the bare minimum configuration, an array of events with <strong>name</strong>, <strong>start</strong> and <strong>end</strong> properties. <strong>end</strong> is optional, it defaults to the <strong>start</strong>. If the <strong>start</strong> has a time it’s considered a timed event and will be shown accordingly in the day views. An event can span multiple days and will be rendered accordingly.</p>"
+  },
+  "category": {
+    "heading": "Type category",
+    "intro": "<p>This is an example of an event calendar with a <strong>type</strong> of <code>category</code> that allows you to compare two schedules side-by-side.</p>"
+  },
+  "day": {
+    "heading": "Type day",
+    "intro": "<p>This is an example of calendar with content in each interval slot and a <strong>type</strong> of <code>day</code>.</p>"
+  },
+  "week": {
+    "heading": "Type week",
+    "intro": "<p>This is an example of an event calendar with all-day and timed events with a <strong>type</strong> of <code>week</code>.</p>"
+  },
+  "click": {
+    "heading": "Click",
+    "intro": "<p>This is an example of a planner with additional event handlers and external components controlling the display of the calendar.</p>"
+  },
+  "slotday": {
+    "heading": "Day",
+    "intro": "<p>Slots allow you to define the content for each day, time interval for the daily views, and various labels.</p>"
+  },
+  "drag": {
+    "heading": "Drag and drop",
+    "intro": "<p>This is an example of an event calendar where you can drag events, extend their length, and create events.</p>"
+  }
+}

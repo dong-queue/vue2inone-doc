@@ -1,0 +1,15 @@
+{
+  "intro": "<p>The v-list-item-group provides the ability to create a group of selectable v-list-items. The v-list-item-group component utilizes v-item-group at its core to provide a clean interface for interactive lists.</p>",
+  "active": {
+    "heading": "Active class",
+    "intro": "<p>You can set a class which will be added when an item is selected.</p>"
+  },
+  "flat": {
+    "heading": "Flat list",
+    "intro": "<p>You can easily disable the default highlighting of selected <code>v-list-item</code>s. This creates a lower profile for a user’s choices.</p>"
+  },
+  "selection": {
+    "heading": "Selection controls",
+    "intro": "<p>Using the default slot, you can access an items internal state and toggle it. Since the <strong>active</strong> property is a <span style=`text-decoration: underline;``>boolean</span>, we use the <strong>true-value</strong> prop on the checkbox to link its state to the <code>v-list-item</code>.</p>"
+  }
+}

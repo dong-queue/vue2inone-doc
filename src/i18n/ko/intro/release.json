@@ -1,0 +1,61 @@
+{
+  "intro": [
+    "<p class='text-body-2'>마이너(오류 수정, 기능 개선) 및 메이저(UI 프레임워크 추가) 업데이트를 꾸준히 반영하고 있습니다.",
+    "Vue3 대응은 현재 지원하는 UI 프레임워크의 Vue3 버전이 업데이트 되는 대로 지원할 예정입니다.</p>",
+    ""
+  ],
+  "112": {
+    "heading": ["", "v1.1.2", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: 버그 수정",
+      "<strong>상세</strong>: vuetify component 'v-card-subtitle' 사용시 화면표시 오류 수정",
+      "</p>"
+    ]
+  },
+  "111": {
+    "heading": ["", "v1.1.1", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: 버그 수정",
+      "<strong>상세</strong>: if 사용시 비교 대상이 array이고 array 내에 boolean값이 있을때 비교 로직이 작동하지 않던 오류 수정",
+      "</p>"
+    ]
+  },
+  "110": {
+    "heading": ["", "v1.1.0", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: UI framework 추가 지원",
+      "<strong>상세</strong>: Element-UI 지원",
+      "</p>"
+    ]
+  },
+  "108": {
+    "heading": ["", "v1.0.8", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: chart 지원",
+      "<strong>상세</strong>: AG chart 지원",
+      "</p>"
+    ]
+  },
+  "106": {
+    "heading": ["", "v1.0.6", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: grid 지원",
+      "<strong>상세</strong>: Ag grid 지원",
+      "</p>"
+    ]
+  },
+  "101": {
+    "heading": ["", "v1.0.1", ""],
+    "body": [
+      "<p class='text-body-2'>",
+      "<strong>내용</strong>: UI framework 지원",
+      "<strong>상세</strong>: Vuetify 지원",
+      "</p>"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "intro": "<p>The v-navigation-drawer component is what your users will utilize to navigate through the application. The navigation-drawer is pre-configured to work with or without vue-router right out the box. For the purpose of display, some examples are wrapped in a v-card element. Within your application you will generally place the v-navigation-drawer as a direct child of v-app.</p>",
+  "bottom": {
+    "heading": "Bottom drawer",
+    "intro": "<p>Using the <strong>bottom</strong> prop, we are able to relocate our drawer on mobile devices to come from the bottom of the screen. This is an alternative style and only activates once the <strong>mobile-breakpoint</strong> is met.</p>"
+  },
+  "hover": {
+    "heading": "Expand on hover",
+    "intro": "<p>Places the component in <strong>mini-variant</strong> mode and expands once hovered. This <strong>does not</strong> alter the content area of <strong>v-main</strong>. The width can be controlled with the <strong>mini-variant-width</strong> property.</p>"
+  },
+  "images": {
+    "heading": "Images",
+    "intro": "<p>Apply a custom background to your drawer via the <strong>src</strong> prop. If you need to customize <code>v-img</code>'s properties you can use the <code>img</code> slot.</p>"
+  },
+  "mini": {
+    "heading": "Mini variant",
+    "intro": "<p>When using the <strong>mini-variant</strong> prop, the drawer will shrink (default 56px) and hide everything inside of <code>v-list</code> except the first element. In this example we use the <strong>.sync</strong> modifier that allows us to tie the expanding/contracting of the drawer programmatically.</p>"
+  },
+  "floating": {
+    "heading": "Permanent and floating",
+    "intro": "<p>By default, a navigation drawer has a 1px right border that separates it from content. In this example we want to detach the drawer from the left side and let it float on its own. The <strong>floating</strong> property removes the right border (or left if using <strong>right</strong>).</p>"
+  },
+  "combined": {
+    "heading": "Combined drawer",
+    "intro": "<p>In this example we define a custom width to accommodate our nested drawer. Using <code>v-row</code> we ensure that the drawer and list stack horizontally next to each other.</p>"
+  }
+}

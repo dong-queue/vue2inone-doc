@@ -1,0 +1,7 @@
+{
+  "intro": "<p>The <code>v-btn-toggle</code> component is a simple wrapper for <code>v-item-group</code> built specifically to work with <code>v-btn</code>.</p>",
+  "usage": {
+    "heading": "Usage",
+    "intro": "<p>Toggle buttons allow you to create a styled group of buttons that can be selected or toggled under a single <strong>v-model</strong>.</p>"
+  }
+}

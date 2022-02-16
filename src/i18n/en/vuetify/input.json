@@ -1,0 +1,31 @@
+{
+  "intro": "<p>The <code>v-input</code> component gives you a baseline to create your own custom inputs. It consists of a prepend/append slot, messages, and a default slot. It is <span style=`text-decoration: underline;`>recommended</span> that you extend this component, but it can be used as a standalone.</p>",
+  "error": {
+    "heading": "Error",
+    "intro": "<p>As any validatable Vuetify component, <code>v-input</code> can be set to error state using <strong>error</strong> prop, messages can be added using <strong>error-messages</strong> prop. You can determine error messages count to show using <strong>error-count</strong> property.</p>"
+  },
+  "hide": {
+    "heading": "Hide details",
+    "intro": "<p>When the <strong>hide-details</strong> prop is set to <code>auto</code> messages will be rendered only if there’s a message (hint, error message etc) to display.</p>"
+  },
+  "hint": {
+    "heading": "Hint",
+    "intro": "<p><code>v-input</code> can have <strong>hint</strong> which can tell user how to use the input. <strong>persistent-hint</strong> prop makes the hint visible always if no messages are displayed.</p>"
+  },
+  "loading": {
+    "heading": "Loading",
+    "intro": "<p><code>v-input</code> has <strong>loading</strong> state which can be used, e.g. for data loading indication. Note: <code>v-text-field</code> is used just for example.</p>"
+  },
+  "rules": {
+    "heading": "Rules",
+    "intro": "<p>You can add custom validation rules to <code>v-input</code>, add them as functions returning <code>true</code>/error message. Note: <code>v-text-field</code> is used just for example.</p>"
+  },
+  "success": {
+    "heading": "Success",
+    "intro": "<p>As any validatable Vuetify component, <code>v-input</code> can be set to success state using <strong>success</strong> prop, you can add message to it using <strong>success-messages</strong> prop.</p>"
+  },
+  "sclick": {
+    "heading": "Slot clicks",
+    "intro": "<p><code>v-input</code> can have <code>click:append</code> and <code>click:prepend</code> events for its slots. Note: <code>v-text-field</code> is used just for example.</p>"
+  }
+}

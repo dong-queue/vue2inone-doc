@@ -1,0 +1,71 @@
+{
+  "intro": "<p>Vuetify comes with a 12 point grid system built using flexbox. The grid is used to create specific layouts within an application’s content. It contains 5 types of media breakpoints that are used for targeting specific screen sizes or orientations, xs, sm, md, lg and xl. These resolutions are defined below in the Viewport Breakpoints table and can be modified by customizing the Breakpoint service.</p>",
+  "align": {
+    "heading": "Align",
+    "intro": "<p>Change the vertical alignment of flex items and their parents using the <strong>align</strong> and <strong>align-self</strong> properties.</p>"
+  },
+  "breakpoint": {
+    "heading": "Breakpoint sizing",
+    "intro": "<p>Columns will automatically take up an equal amount of space within their parent container. This can be modified using the <strong>cols</strong> prop. You can also utilize the <strong>sm</strong>, <strong>md</strong>, <strong>lg</strong>, and <strong>xl</strong> props to further define how the column will be sized in different viewport sizes.</p>"
+  },
+  "justify": {
+    "heading": "Justify",
+    "intro": "<p>Change the horizontal alignment of flex items using the <strong>justify</strong> property.</p>"
+  },
+  "nogutters": {
+    "heading": "No gutters",
+    "intro": "<p>You can remove the negative margins from <code>v-row</code> and the padding from its direct <code>v-col</code> children using the <strong>no-gutters</strong> property.</p>"
+  },
+  "offset": {
+    "heading": "Offset",
+    "intro": "<p>Offsets are useful for compensating for elements that may not be visible yet, or to control the position of content. Just as with breakpoints, you can set an offset for any available sizes. This allows you to fine tune your application layout precisely to your needs.</p>"
+  },
+  "offsetBreakpoint": {
+    "heading": "Offset breakpoint",
+    "intro": "<p>Offset can also be applied on a per breakpoint basis.</p>"
+  },
+  "order": {
+    "heading": "Order",
+    "intro": "<p>You can control the ordering of grid items. As with offsets, you can set different orders for different sizes. Design specialized screen layouts that accommodate to any application.</p>"
+  },
+  "orderfirlast": {
+    "heading": "Order first and last",
+    "intro": "<p>You can also designate explicitly <strong>first</strong> or <strong>last</strong> which will assign <strong>-1</strong> or <strong>13</strong> values respectively to the <code>order</code> CSS property.</p>"
+  },
+  "wrapping": {
+    "heading": "Column wrapping",
+    "intro": "<p>When more than 12 columns are placed within a given row (that is not using the <code>.flex-nowrap</code> utility class), each group of extra columns will wrap onto a new line.</p>"
+  },
+  "grow": {
+    "heading": "Grow and Shrink",
+    "intro": "<p>By default, flex components will automatically fill the available space in a row or column. They will also shrink relative to the rest of the flex items in the flex container when a specific size is not designated. You can define the column width of the <code>v-col</code> by using the <strong>cols</strong> prop and providing a value from <strong>1 to 12</strong>.</p>"
+  },
+  "margin": {
+    "heading": "Margin helpers",
+    "intro": "<p>Using the auto margin helper utilities you can force sibling columns away from each other.</p>"
+  },
+  "nested": {
+    "heading": "Nested grid",
+    "intro": "<p>Grids can be nested, similar to other frameworks, in order to achieve very custom layouts.</p>"
+  },
+  "onecolumn": {
+    "heading": "One column width",
+    "intro": "<p>When using the auto-layout, you can define the width of only one column and still have its siblings to automatically resize around it.</p>"
+  },
+  "rowcolbreak": {
+    "heading": "Row and column breakpoints",
+    "intro": "<p>Dynamically change your layout based upon resolution. <strong>(resize your screen and watch the top <code>row</code> layout change on sm, md, and lg breakpoints)</strong></p>"
+  },
+  "spacers": {
+    "heading": "Spacers",
+    "intro": "<p>The <code>v-spacer</code> component is useful when you want to fill available space or make space between two components.</p>"
+  },
+  "unique": {
+    "heading": "Unique layouts",
+    "intro": "<p>The power and flexibility of the Vuetify grid system allows you to create amazing user interfaces.</p>"
+  },
+  "variable": {
+    "heading": "Variable content width",
+    "intro": "<p>Assigning breakpoint width for columns can be configured to resize based upon the nature width of their content.</p>"
+  }
+}
